@@ -1,0 +1,231 @@
+﻿1
+00:00:10,496 --> 00:00:12,032
+<font color="#fcfcfc">Hello everyone and welcome</font>
+
+2
+00:00:12,288 --> 00:00:14,336
+<font color="#979797">Come to our open pie Excel course</font>
+
+3
+00:00:14,848 --> 00:00:17,408
+<font color="#f2f2f2">That's right in this course we're going to learn how to automate</font>
+
+4
+00:00:18,176 --> 00:00:19,712
+<font color="#efefef">Via python going to use</font>
+
+5
+00:00:19,968 --> 00:00:20,992
+<font color="#c2c2c2">The number one</font>
+
+6
+00:00:21,248 --> 00:00:23,808
+<font color="#f0f0f0">Popular python Library open pie Excel</font>
+
+7
+00:00:24,064 --> 00:00:25,088
+<font color="#989898">Order to automate</font>
+
+8
+00:00:25,344 --> 00:00:25,856
+<font color="#bfbfbf">A common</font>
+
+9
+00:00:26,368 --> 00:00:29,184
+<font color="#a1a1a1">Felt hats and build lots of projects along the way</font>
+
+10
+00:00:29,696 --> 00:00:32,512
+<font color="#a0a0a0">In this lecture we're doing overview of all of the topics</font>
+
+11
+00:00:33,280 --> 00:00:33,792
+<font color="#777777">In this course</font>
+
+12
+00:00:34,304 --> 00:00:35,072
+<font color="#fcfcfc">Starting with the first</font>
+
+13
+00:00:35,328 --> 00:00:37,120
+<font color="#b2b2b2">For topics we're going to do an introduction.</font>
+
+14
+00:00:37,376 --> 00:00:38,144
+<font color="#fcfcfc">How to use</font>
+
+15
+00:00:38,400 --> 00:00:38,912
+<font color="#bebebe">Who's open pie</font>
+
+16
+00:00:39,936 --> 00:00:40,960
+<font color="#f8f8f8">And how to</font>
+
+17
+00:00:41,216 --> 00:00:41,728
+<font color="#fcfcfc">Run</font>
+
+18
+00:00:41,984 --> 00:00:43,264
+<font color="#fcfcfc">Python on the web</font>
+
+19
+00:00:43,520 --> 00:00:44,288
+<font color="#fcfcfc">How to automate</font>
+
+20
+00:00:44,544 --> 00:00:45,056
+<font color="#fcfcfc">From the web</font>
+
+21
+00:00:45,312 --> 00:00:47,616
+<font color="#fdfdfd">You don't have to download or install anything</font>
+
+22
+00:00:49,664 --> 00:00:53,248
+<font color="#c3c3c3">And after that we are going to learn how to build worksheet</font>
+
+23
+00:00:55,296 --> 00:00:57,856
+<font color="#b9b9b9">Falling. We're going to learn how to format cells</font>
+
+24
+00:00:58,368 --> 00:00:59,904
+<font color="#d9d9d9">Via open Pikesville</font>
+
+25
+00:01:00,160 --> 00:01:03,488
+<font color="#c1c1c1">I'm going to learn how to build 2D charts programmatically</font>
+
+26
+00:01:03,744 --> 00:01:05,536
+<font color="#ababab">Taking our data and visualizing it</font>
+
+27
+00:01:06,048 --> 00:01:06,560
+<font color="#f5f5f5">Programmatically</font>
+
+28
+00:01:07,584 --> 00:01:09,888
+<font color="#e9e9e9">I forgot to go to build a project together</font>
+
+29
+00:01:10,144 --> 00:01:13,728
+<font color="#b6b6b6">Build an employee time on that allows employees to</font>
+
+30
+00:01:13,984 --> 00:01:15,264
+<font color="#f2f2f2">Register their work hours</font>
+
+31
+00:01:16,032 --> 00:01:17,056
+<font color="#fcfcfc">Immediately</font>
+
+32
+00:01:17,568 --> 00:01:19,360
+<font color="#e4e4e4">It's an automated format where you generate</font>
+
+33
+00:01:19,616 --> 00:01:20,896
+<font color="#9f9f9f">A new timelog every</font>
+
+34
+00:01:21,152 --> 00:01:22,176
+<font color="#d3d3d3">Hey.</font>
+
+35
+00:01:22,944 --> 00:01:26,016
+<font color="#bbbbbb">Learn how to write data to a text file</font>
+
+36
+00:01:26,272 --> 00:01:27,552
+<font color="#fcfcfc">How to take an Excel sheet</font>
+
+37
+00:01:28,064 --> 00:01:28,576
+<font color="#cecece">Add</font>
+
+38
+00:01:29,088 --> 00:01:34,464
+<font color="#ededed">Using programming using Python Programming how to write it to a text file or any file that you want really</font>
+
+39
+00:01:35,232 --> 00:01:37,280
+<font color="#fafafa">How to update a spreadsheet</font>
+
+40
+00:01:37,536 --> 00:01:40,352
+<font color="#afafaf">He programmatically chart type</font>
+
+41
+00:01:40,864 --> 00:01:41,376
+<font color="#f5f5f5">In Section 8</font>
+
+42
+00:01:41,888 --> 00:01:43,936
+<font color="#dcdcdc">Build more charts programmatically</font>
+
+43
+00:01:44,960 --> 00:01:50,336
+<font color="#eeeeee">And finally infection 9 we would learn how to scrape a webpage and get data that we want and save it</font>
+
+44
+00:01:50,592 --> 00:01:51,616
+<font color="#ececec">Twin Excel file</font>
+
+45
+00:01:52,128 --> 00:01:56,224
+<font color="#adadad">Who's going to save you a lot of time a lot of energy this entire course is going to teach you</font>
+
+46
+00:01:56,480 --> 00:01:58,528
+<font color="#fcfcfc">How to speed up your business processes</font>
+
+47
+00:01:59,040 --> 00:02:00,064
+<font color="#fcfcfc">How to automate</font>
+
+48
+00:02:00,320 --> 00:02:01,344
+<font color="#dadada">Common tasks</font>
+
+49
+00:02:01,600 --> 00:02:02,112
+<font color="#e7e7e7">And</font>
+
+50
+00:02:02,368 --> 00:02:04,416
+<font color="#dddddd">How to build useful projects</font>
+
+51
+00:02:04,672 --> 00:02:05,696
+<font color="#fcfcfc">You'll find yourself using</font>
+
+52
+00:02:05,952 --> 00:02:06,720
+<font color="#a1a1a1">On the job</font>
+
+53
+00:02:07,488 --> 00:02:09,536
+<font color="#d2d2d2">Thank you all for watching I will see you</font>
+
+54
+00:02:09,792 --> 00:02:12,096
+<font color="#f3f3f3">In the next lecture we're going to learn how</font>
+
+55
+00:02:12,352 --> 00:02:13,120
+<font color="#fcfcfc">We can run</font>
+
+56
+00:02:13,376 --> 00:02:13,888
+<font color="#fcfcfc">Python</font>
+
+57
+00:02:14,144 --> 00:02:17,216
+<font color="#d7d7d7">And run over projects on the web without installing any</font>
+
+58
+00:02:17,984 --> 00:02:19,520
+<font color="#fcfcfc">I'll see you in the next life</font>
