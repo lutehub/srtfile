@@ -1,0 +1,735 @@
+﻿1
+00:00:03,072 --> 00:00:08,704
+<font color="#e6e6e6">Hello everyone and welcome back door open Pikeville course</font>
+
+2
+00:00:09,472 --> 00:00:10,496
+<font color="#b3b3b3">In this sweatshirt</font>
+
+3
+00:00:10,752 --> 00:00:14,080
+<font color="#b4b4b4">To learn how to read a workbook via open pie Excel</font>
+
+4
+00:00:14,592 --> 00:00:17,408
+<font color="#f5f5f5">That means that we already have a workbook somewhere in</font>
+
+5
+00:00:17,920 --> 00:00:20,480
+<font color="#c1c1c1">Are computer or summer on Google Drive</font>
+
+6
+00:00:20,736 --> 00:00:22,784
+<font color="#f0f0f0">And we want to read it get values</font>
+
+7
+00:00:23,040 --> 00:00:24,832
+<font color="#b2b2b2">From it we are not making a new one</font>
+
+8
+00:00:25,088 --> 00:00:26,880
+<font color="#d9d9d9">We're not writing one but we're reading one</font>
+
+9
+00:00:27,392 --> 00:00:28,928
+<font color="#e5e5e5">Let's go ahead and learn how we can do that</font>
+
+10
+00:00:29,696 --> 00:00:32,256
+<font color="#f5f5f5">First we have to import from open pie Excel</font>
+
+11
+00:00:32,512 --> 00:00:34,560
+<font color="#fafafa">What is known as the load</font>
+
+12
+00:00:34,816 --> 00:00:35,328
+<font color="#8a8a8a">Work</font>
+
+13
+00:00:36,352 --> 00:00:37,888
+<font color="#fdfdfd">This is going to allow us to</font>
+
+14
+00:00:38,144 --> 00:00:39,168
+<font color="#a5a5a5">Loda workbook</font>
+
+15
+00:00:39,680 --> 00:00:40,704
+<font color="#fcfcfc">Now there are</font>
+
+16
+00:00:40,960 --> 00:00:42,240
+<font color="#d3d3d3">Two different ways of loading a workbook</font>
+
+17
+00:00:43,008 --> 00:00:45,568
+<font color="#f0f0f0">If your file is on your computer</font>
+
+18
+00:00:45,824 --> 00:00:47,360
+<font color="#fcfcfc">Then you can go ahead and</font>
+
+19
+00:00:47,872 --> 00:00:48,640
+<font color="#fcfcfc">Directly</font>
+
+20
+00:00:48,896 --> 00:00:51,200
+<font color="#f4f4f4">Open up the workbook object</font>
+
+21
+00:00:51,712 --> 00:00:54,272
+<font color="#f3f3f3">Which is going to be a new variable called w b</font>
+
+22
+00:00:54,784 --> 00:00:56,320
+<font color="#cecece">And we're going to assign a sequel</font>
+
+23
+00:00:56,576 --> 00:00:58,112
+<font color="#c0c0c0">Vote underscore workbook</font>
+
+24
+00:00:58,880 --> 00:00:59,904
+<font color="#fcfcfc">Now in parenthesis</font>
+
+25
+00:01:00,160 --> 00:01:02,464
+<font color="#fcfcfc">You can put the path to your workbook</font>
+
+26
+00:01:04,000 --> 00:01:04,768
+<font color="#fcfcfc">For example</font>
+
+27
+00:01:05,536 --> 00:01:08,096
+<font color="#b4b4b4">The workbook is directly in my default path</font>
+
+28
+00:01:08,352 --> 00:01:10,400
+<font color="#999999">But I can just call it by its name</font>
+
+29
+00:01:11,680 --> 00:01:13,728
+<font color="#bababa">Mark's doesn't matter</font>
+
+30
+00:01:13,984 --> 00:01:18,848
+<font color="#9d9d9d">Will call the name of the workbook that we want to read such as new workbook. SL</font>
+
+31
+00:01:19,360 --> 00:01:20,640
+<font color="#e9e9e9">Xlsx</font>
+
+32
+00:01:21,920 --> 00:01:22,688
+<font color="#fcfcfc">Now this is</font>
+
+33
+00:01:22,944 --> 00:01:23,968
+<font color="#fcfcfc">If there is no</font>
+
+34
+00:01:24,224 --> 00:01:27,040
+<font color="#a7a7a7">File path for this is a file path in just add that</font>
+
+35
+00:01:27,296 --> 00:01:27,808
+<font color="#dbdbdb">Before</font>
+
+36
+00:01:28,832 --> 00:01:29,344
+<font color="#eaeaea">Found him</font>
+
+37
+00:01:30,112 --> 00:01:33,696
+<font color="#f8f8f8">Note that you must add the extension and also</font>
+
+38
+00:01:33,952 --> 00:01:35,232
+<font color="#fcfcfc">Quotation marks around the name</font>
+
+39
+00:01:38,304 --> 00:01:42,656
+<font color="#c2c2c2">The workbook that we created together in the previous lecture called new workbook.</font>
+
+40
+00:01:42,912 --> 00:01:43,424
+<font color="#c1c1c1">Excel</font>
+
+41
+00:01:43,936 --> 00:01:44,448
+<font color="#a5a5a5">SX</font>
+
+42
+00:01:45,472 --> 00:01:49,056
+<font color="#e5e5e5">Now in the previous lecture we saved this workbook to our Google Drive</font>
+
+43
+00:01:49,312 --> 00:01:50,848
+<font color="#f4f4f4">You can stay with your computer as well</font>
+
+44
+00:01:51,616 --> 00:01:53,408
+<font color="#f5f5f5">But if you're using Google colab</font>
+
+45
+00:01:53,664 --> 00:01:55,712
+<font color="#d7d7d7">And you're saving your workbooks to Google Drive</font>
+
+46
+00:01:55,968 --> 00:01:57,760
+<font color="#d7d7d7">Then you have to read and port</font>
+
+47
+00:01:58,272 --> 00:02:00,576
+<font color="#fcfcfc">Google drive into this project</font>
+
+48
+00:02:01,600 --> 00:02:04,416
+<font color="#f6f6f6">For this if you're starting a brand new project here all we have to do</font>
+
+49
+00:02:05,184 --> 00:02:06,208
+<font color="#c9c9c9">Is ad</font>
+
+50
+00:02:06,464 --> 00:02:08,768
+<font color="#f6f6f6">That we want to import the drive</font>
+
+51
+00:02:09,280 --> 00:02:12,352
+<font color="#e3e3e3">That means that from Google colab or going to import</font>
+
+52
+00:02:12,608 --> 00:02:14,656
+<font color="#ededed">Drive which represents Google Drive</font>
+
+53
+00:02:15,168 --> 00:02:18,752
+<font color="#b9b9b9">Does only have to do this if you're following along with us in Google colab</font>
+
+54
+00:02:19,520 --> 00:02:23,360
+<font color="#bababa">As well to forget to call Dr. Mount amount function to</font>
+
+55
+00:02:23,616 --> 00:02:24,896
+<font color="#e5e5e5">Mount on a past</font>
+
+56
+00:02:25,152 --> 00:02:25,920
+<font color="#f3f3f3">Google Drive</font>
+
+57
+00:02:26,176 --> 00:02:27,200
+<font color="#e3e3e3">And you do that with your past</font>
+
+58
+00:02:27,456 --> 00:02:28,992
+<font color="#adadad">Content / d Drive</font>
+
+59
+00:02:30,016 --> 00:02:31,296
+<font color="#fcfcfc">This is how you can load</font>
+
+60
+00:02:31,552 --> 00:02:32,832
+<font color="#fcfcfc">Files from Google Drive</font>
+
+61
+00:02:33,856 --> 00:02:38,976
+<font color="#cbcbcb">And just ignore these two lines if you're just loading the work books from your computer instead</font>
+
+62
+00:02:39,488 --> 00:02:40,000
+<font color="#fcfcfc">It is up to you</font>
+
+63
+00:02:41,280 --> 00:02:42,816
+<font color="#adadad">Alright so if you are</font>
+
+64
+00:02:43,072 --> 00:02:44,864
+<font color="#e2e2e2">Loading the rock clock app from Google Drive</font>
+
+65
+00:02:45,120 --> 00:02:47,168
+<font color="#f3f3f3">And what you like to do with add a file path</font>
+
+66
+00:02:47,424 --> 00:02:48,448
+<font color="#f0f0f0">Before the final name</font>
+
+67
+00:02:49,472 --> 00:02:53,312
+<font color="#fafafa">What we can do is we have to first of all call filename2 set</font>
+
+68
+00:02:54,080 --> 00:02:54,848
+<font color="#f6f6f6">Argument</font>
+
+69
+00:02:55,872 --> 00:03:00,736
+<font color="#f1f1f1">We have to put founding equals to tell python that we want to assign this value</font>
+
+70
+00:03:01,504 --> 00:03:03,296
+<font color="#e3e3e3">To the filename argument</font>
+
+71
+00:03:04,320 --> 00:03:05,856
+<font color="#fcfcfc">Now what we want to do is append</font>
+
+72
+00:03:06,368 --> 00:03:06,880
+<font color="#fcfcfc">On</font>
+
+73
+00:03:07,136 --> 00:03:07,904
+<font color="#6d6d6d">Our</font>
+
+74
+00:03:08,416 --> 00:03:09,952
+<font color="#fcfcfc">Location of Google Drive</font>
+
+75
+00:03:10,464 --> 00:03:11,744
+<font color="#fcfcfc">So we're going to open up</font>
+
+76
+00:03:12,000 --> 00:03:16,096
+<font color="#bababa">Quotation marks / contest 5G drive my drive</font>
+
+77
+00:03:16,352 --> 00:03:19,424
+<font color="#cecece">Flash don't forget that Final Flash</font>
+
+78
+00:03:19,936 --> 00:03:21,216
+<font color="#fcfcfc">I'm just going to hit enter so you can</font>
+
+79
+00:03:21,472 --> 00:03:22,752
+<font color="#dfdfdf">See all this on one line</font>
+
+80
+00:03:23,264 --> 00:03:25,056
+<font color="#dadada">Okay just hit enter again</font>
+
+81
+00:03:25,312 --> 00:03:27,360
+<font color="#dcdcdc">I want you to go to see all this online okay</font>
+
+82
+00:03:27,872 --> 00:03:29,408
+<font color="#e3e3e3">So here we have first the past</font>
+
+83
+00:03:29,664 --> 00:03:30,688
+<font color="#b7b7b7">To defile</font>
+
+84
+00:03:30,944 --> 00:03:35,552
+<font color="#dcdcdc">This is the package to put in for accessing any file on Google Drive</font>
+
+85
+00:03:36,320 --> 00:03:42,464
+<font color="#a8a8a8">Anna this is a filename so together do add up to equally file path and the file name plus the file extension</font>
+
+86
+00:03:42,976 --> 00:03:46,304
+<font color="#c8c8c8">You can replace the Google Drive path with the path on your computer</font>
+
+87
+00:03:47,072 --> 00:03:48,864
+<font color="#b7b7b7">I just like that will be loading a workbook</font>
+
+88
+00:03:49,376 --> 00:03:53,984
+<font color="#ededed">It's important to put in the path exactly correctly without forgetting any forward flashes</font>
+
+89
+00:03:54,496 --> 00:03:55,264
+<font color="#fcfcfc">Or else</font>
+
+90
+00:03:55,520 --> 00:03:56,544
+<font color="#d0d0d0">Devote workbook</font>
+
+91
+00:03:57,056 --> 00:03:58,848
+<font color="#d8d8d8">Function is not going to go to find</font>
+
+92
+00:03:59,360 --> 00:04:02,176
+<font color="#d1d1d1">Dat file name exactly at that file path</font>
+
+93
+00:04:03,968 --> 00:04:06,784
+<font color="#f2f2f2">Now this means we successfully loaded up our workbook</font>
+
+94
+00:04:07,296 --> 00:04:08,576
+<font color="#f8f8f8">But how can we prove that</font>
+
+95
+00:04:09,088 --> 00:04:09,856
+<font color="#f9f9f9">Well we can</font>
+
+96
+00:04:10,112 --> 00:04:13,184
+<font color="#f6f6f6">Go ahead and grab one of the worksheets in the workbook</font>
+
+97
+00:04:13,440 --> 00:04:16,000
+<font color="#dddddd">And print out one of its values so it's do that next</font>
+
+98
+00:04:16,768 --> 00:04:17,536
+<font color="#747474">Polk County Jail</font>
+
+99
+00:04:18,047 --> 00:04:18,559
+<font color="#fcfcfc">Is</font>
+
+100
+00:04:18,815 --> 00:04:21,631
+<font color="#e8e8e8">Make another variable and we'll call this our sheets</font>
+
+101
+00:04:23,935 --> 00:04:27,519
+<font color="#cbcbcb">Let's go ahead and get a seat inside of a rock book</font>
+
+102
+00:04:28,287 --> 00:04:29,055
+<font color="#dddddd">Do a member from</font>
+
+103
+00:04:29,311 --> 00:04:30,847
+<font color="#d9d9d9">Two letters ago we created</font>
+
+104
+00:04:31,103 --> 00:04:32,127
+<font color="#909090">Some worksheets</font>
+
+105
+00:04:32,383 --> 00:04:34,431
+<font color="#f3f3f3">For example we made 8/3</font>
+
+106
+00:04:34,943 --> 00:04:35,967
+<font color="#fcfcfc">3rd Street</font>
+
+107
+00:04:37,503 --> 00:04:38,527
+<font color="#fcfcfc">This is the name of</font>
+
+108
+00:04:38,783 --> 00:04:41,855
+<font color="#f3f3f3">One of the worksheets in our workbook so we can call it</font>
+
+109
+00:04:42,111 --> 00:04:43,903
+<font color="#ededed">Just like this we call our workbook</font>
+
+110
+00:04:44,159 --> 00:04:44,671
+<font color="#f5f5f5">Variable</font>
+
+111
+00:04:44,927 --> 00:04:46,975
+<font color="#f6f6f6">And we're getting the third sheet</font>
+
+112
+00:04:47,743 --> 00:04:49,535
+<font color="#c2c2c2">Which is the name of a sheet in</font>
+
+113
+00:04:49,791 --> 00:04:50,303
+<font color="#d7d7d7">4:00</font>
+
+114
+00:04:51,583 --> 00:04:54,143
+<font color="#e2e2e2">Now that we have saved is sheet inside of</font>
+
+115
+00:04:54,399 --> 00:04:55,679
+<font color="#f5f5f5">A sheet variable</font>
+
+116
+00:04:55,935 --> 00:04:56,703
+<font color="#fcfcfc">We can then</font>
+
+117
+00:04:57,215 --> 00:04:58,495
+<font color="#fcfcfc">Print out one of</font>
+
+118
+00:04:58,751 --> 00:04:59,519
+<font color="#e3e3e3">It's values</font>
+
+119
+00:04:59,775 --> 00:05:01,567
+<font color="#e5e5e5">We can call the print function</font>
+
+120
+00:05:02,079 --> 00:05:02,591
+<font color="#efefef">To print</font>
+
+121
+00:05:02,847 --> 00:05:05,151
+<font color="#ececec">The sheets values at a certain cell</font>
+
+122
+00:05:05,919 --> 00:05:07,455
+<font color="#fcfcfc">Just put in a cell</font>
+
+123
+00:05:07,711 --> 00:05:08,991
+<font color="#d7d7d7">Increase marks</font>
+
+124
+00:05:09,503 --> 00:05:11,039
+<font color="#a7a7a7">Four examples of CB-1</font>
+
+125
+00:05:12,063 --> 00:05:14,111
+<font color="#dedede">Solid B. Value property</font>
+
+126
+00:05:14,367 --> 00:05:17,183
+<font color="#a2a2a2">Is it going to give us the value stored in</font>
+
+127
+00:05:17,439 --> 00:05:18,719
+<font color="#cccccc">The B-1 cell</font>
+
+128
+00:05:18,975 --> 00:05:19,999
+<font color="#f5f5f5">In the sheets</font>
+
+129
+00:05:20,767 --> 00:05:22,815
+<font color="#e5e5e5">Variable which stores the third sheet</font>
+
+130
+00:05:23,327 --> 00:05:24,863
+<font color="#ededed">In our workbook</font>
+
+131
+00:05:25,887 --> 00:05:28,447
+<font color="#f3f3f3">Let's test without going to hit run here</font>
+
+132
+00:05:28,959 --> 00:05:33,567
+<font color="#ececec">You'll notice you may either get drive already mounted</font>
+
+133
+00:05:33,823 --> 00:05:36,895
+<font color="#ececec">If you are attempting to mount the Google Drive</font>
+
+134
+00:05:37,663 --> 00:05:38,687
+<font color="#d5d5d5">Second time</font>
+
+135
+00:05:39,199 --> 00:05:41,759
+<font color="#f4f4f4">Because you won't have to mount it twice in the same project</font>
+
+136
+00:05:42,271 --> 00:05:46,879
+<font color="#e2e2e2">But if you haven't yet mounted Google Drive and you'll need this line to authenticate</font>
+
+137
+00:05:47,135 --> 00:05:47,903
+<font color="#efefef">Google colab</font>
+
+138
+00:05:48,671 --> 00:05:49,439
+<font color="#fcfcfc">Another time</font>
+
+139
+00:05:49,695 --> 00:05:51,999
+<font color="#b4b4b4">But you already got it for this project then</font>
+
+140
+00:05:52,255 --> 00:05:54,815
+<font color="#d8d8d8">You'll get the message that the drive has already been mounted</font>
+
+141
+00:05:55,327 --> 00:05:57,887
+<font color="#fbfbfb">It just means that this line was written a second time</font>
+
+142
+00:05:58,143 --> 00:06:00,959
+<font color="#efefef">That's because I already called this line in my project</font>
+
+143
+00:06:01,215 --> 00:06:01,727
+<font color="#727272">Funtime</font>
+
+144
+00:06:01,983 --> 00:06:02,495
+<font color="#d5d5d5">Did earlier</font>
+
+145
+00:06:03,775 --> 00:06:06,847
+<font color="#ababab">Announcer that you'll notice we have printed these value be</font>
+
+146
+00:06:07,615 --> 00:06:10,687
+<font color="#dfdfdf">That's because that is the value asked to beat one cell</font>
+
+147
+00:06:11,455 --> 00:06:13,247
+<font color="#e6e6e6">Inside of our third sheet</font>
+
+148
+00:06:13,759 --> 00:06:17,087
+<font color="#dddddd">This means that we successfully were able to pull a value from</font>
+
+149
+00:06:17,343 --> 00:06:18,111
+<font color="#989898">Our file</font>
+
+150
+00:06:19,135 --> 00:06:20,927
+<font color="#bababa">You'll recall into exigo</font>
+
+151
+00:06:21,439 --> 00:06:23,231
+<font color="#ececec">We populated the third sheet with</font>
+
+152
+00:06:23,743 --> 00:06:25,535
+<font color="#fcfcfc">The names of the column</font>
+
+153
+00:06:26,303 --> 00:06:28,607
+<font color="#b2b2b2">Hid one and I hit run</font>
+
+154
+00:06:29,119 --> 00:06:31,423
+<font color="#e0e0e0">I'm going to see deep being printed out</font>
+
+155
+00:06:32,191 --> 00:06:32,959
+<font color="#fcfcfc">That's because</font>
+
+156
+00:06:33,215 --> 00:06:36,031
+<font color="#d2d2d2">I populated my sheet with the names</font>
+
+157
+00:06:37,567 --> 00:06:40,383
+<font color="#d6d6d6">The column letters in a certain range</font>
+
+158
+00:06:40,639 --> 00:06:46,271
+<font color="#b8b8b8">Some will be out of range switches Z1 if I had run I'll get none that's because I was out of range</font>
+
+159
+00:06:46,783 --> 00:06:48,831
+<font color="#c0c0c0">You can go back a couple extras to see this or</font>
+
+160
+00:06:49,087 --> 00:06:52,671
+<font color="#cfcfcf">Just use any file that you have on your computer or on Google Drive</font>
+
+161
+00:06:53,183 --> 00:06:55,743
+<font color="#dadada">And then it call one of its worksheets by name</font>
+
+162
+00:06:55,999 --> 00:06:58,559
+<font color="#e9e9e9">Evan call one of the values in that cell</font>
+
+163
+00:06:58,815 --> 00:07:02,655
+<font color="#cdcdcd">Compare that we have exactly that value at C1</font>
+
+164
+00:07:03,423 --> 00:07:05,983
+<font color="#ededed">For example let me go to that exact</font>
+
+165
+00:07:06,239 --> 00:07:09,055
+<font color="#f1f1f1">New workbook in my Google Sheets</font>
+
+166
+00:07:09,567 --> 00:07:13,919
+<font color="#e7e7e7">You can also open it on your computer and look at this this is a new workbook we created two actors ago</font>
+
+167
+00:07:14,431 --> 00:07:15,455
+<font color="#fcfcfc">And that's also</font>
+
+168
+00:07:15,967 --> 00:07:17,759
+<font color="#b7b7b7">The same exact style that we're accessing</font>
+
+169
+00:07:18,783 --> 00:07:23,135
+<font color="#c1c1c1">You'll notice it has several worksheets it has new active workbook it has number two</font>
+
+170
+00:07:23,391 --> 00:07:24,671
+<font color="#f6f6f6">Which has some value here</font>
+
+171
+00:07:24,927 --> 00:07:26,207
+<font color="#dcdcdc">And it has third sheet</font>
+
+172
+00:07:26,463 --> 00:07:28,511
+<font color="#fcfcfc">Which has the names of columns</font>
+
+173
+00:07:29,023 --> 00:07:30,815
+<font color="#d5d5d5">Call letters in a certain range</font>
+
+174
+00:07:31,071 --> 00:07:37,215
+<font color="#b9b9b9">And this is a sheet from which we pulled the values as we try to get Z busy without</font>
+
+175
+00:07:37,471 --> 00:07:38,239
+<font color="#fefefe">Out of this range</font>
+
+176
+00:07:39,007 --> 00:07:42,079
+<font color="#f3f3f3">This proves that we successfully managed to open up new workbook</font>
+
+177
+00:07:42,335 --> 00:07:44,895
+<font color="#dbdbdb">Via open Pike cell programmatically</font>
+
+178
+00:07:45,151 --> 00:07:46,687
+<font color="#e2e2e2">And we grabbed the third sheets</font>
+
+179
+00:07:46,943 --> 00:07:48,735
+<font color="#e2e2e2">And pulled a value from one of its cells</font>
+
+180
+00:07:49,503 --> 00:07:52,063
+<font color="#ebebeb">And we did all that via open pie Excel</font>
+
+181
+00:07:52,831 --> 00:07:54,111
+<font color="#fcfcfc">Congratulations to everyone</font>
+
+182
+00:07:54,367 --> 00:07:56,671
+<font color="#fcfcfc">That is how you can read from a workbook</font>
+
+183
+00:07:56,927 --> 00:07:57,951
+<font color="#fcfcfc">Programmatically via</font>
+
+184
+00:07:58,207 --> 00:07:59,231
+<font color="#9e9e9e">Open pie Excel</font>
