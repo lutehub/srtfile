@@ -1,0 +1,159 @@
+﻿1
+00:00:08,960 --> 00:00:13,312
+<font color="#f8f8f8">Hello everyone and welcome back to our open pie Excel course</font>
+
+2
+00:00:14,080 --> 00:00:17,152
+<font color="#c2c2c2">And that's what you're going to learn how we can run our python code</font>
+
+3
+00:00:18,176 --> 00:00:18,688
+<font color="#eeeeee">Automate</font>
+
+4
+00:00:18,944 --> 00:00:19,968
+<font color="#cecece">RXL</font>
+
+5
+00:00:20,224 --> 00:00:20,736
+<font color="#dcdcdc">Sheetz</font>
+
+6
+00:00:20,992 --> 00:00:24,064
+<font color="#e7e7e7">All via the web with no downloading or installing</font>
+
+7
+00:00:24,320 --> 00:00:24,832
+<font color="#eeeeee">Required</font>
+
+8
+00:00:25,856 --> 00:00:28,672
+<font color="#f8f8f8">Only have to do is navigate to collab</font>
+
+9
+00:00:28,928 --> 00:00:30,464
+<font color="#a3a3a3">Doc's research. Google</font>
+
+10
+00:00:31,232 --> 00:00:32,768
+<font color="#fcfcfc">This is a free website</font>
+
+11
+00:00:33,024 --> 00:00:36,096
+<font color="#e8e8e8">That Google has developed to allow you to run python</font>
+
+12
+00:00:36,352 --> 00:00:37,376
+<font color="#fcfcfc">On the web</font>
+
+13
+00:00:38,144 --> 00:00:41,984
+<font color="#e7e7e7">That means that any code that we type into a new Google colab file</font>
+
+14
+00:00:42,240 --> 00:00:43,776
+<font color="#b5b5b5">She's very similar to a Google doc</font>
+
+15
+00:00:44,288 --> 00:00:46,080
+<font color="#f5f5f5">File or a Google Sheets file</font>
+
+16
+00:00:46,336 --> 00:00:49,408
+<font color="#f8f8f8">Any code that we run in here that is python code</font>
+
+17
+00:00:50,176 --> 00:00:54,272
+<font color="#ececec">The Google colab compiler is going to automatically run it for us to fight.</font>
+
+18
+00:00:55,040 --> 00:00:57,856
+<font color="#fafafa">That means we don't have to download or install python for this</font>
+
+19
+00:00:58,112 --> 00:00:58,880
+<font color="#fafafa">Of course we can</font>
+
+20
+00:00:59,136 --> 00:01:00,928
+<font color="#e0e0e0">Manipulate our Excel files</font>
+
+21
+00:01:01,696 --> 00:01:02,976
+<font color="#e8e8e8">Via Google colab</font>
+
+22
+00:01:03,232 --> 00:01:07,072
+<font color="#fcfcfc">Now if you want to download and install python you can of course and you</font>
+
+23
+00:01:08,096 --> 00:01:09,120
+<font color="#e6e6e6">Run the code</font>
+
+24
+00:01:09,376 --> 00:01:11,424
+<font color="#d9d9d9">That we show you in Thai charm or</font>
+
+25
+00:01:11,680 --> 00:01:13,472
+<font color="#f7f7f7">Any other editor that you want</font>
+
+26
+00:01:13,728 --> 00:01:14,496
+<font color="#fcfcfc">Or you can</font>
+
+27
+00:01:14,752 --> 00:01:16,800
+<font color="#d8d8d8">Skip seat installing and downloading and just</font>
+
+28
+00:01:17,568 --> 00:01:18,848
+<font color="#b7b7b7">Google colab</font>
+
+29
+00:01:19,360 --> 00:01:20,640
+<font color="#fcfcfc">All of your files are going to be</font>
+
+30
+00:01:21,408 --> 00:01:22,432
+<font color="#c2c2c2">To Google Drive</font>
+
+31
+00:01:23,200 --> 00:01:24,480
+<font color="#d6d6d6">Via Google colab</font>
+
+32
+00:01:25,504 --> 00:01:26,784
+<font color="#e5e5e5">All right and that is how</font>
+
+33
+00:01:27,040 --> 00:01:31,392
+<font color="#f6f6f6">We are going to run open Tai Excel and how we're going to automate Excel via the web</font>
+
+34
+00:01:32,416 --> 00:01:33,184
+<font color="#fcfcfc">Let's get started</font>
+
+35
+00:01:33,440 --> 00:01:34,208
+<font color="#c9c9c9">With our next</font>
+
+36
+00:01:34,464 --> 00:01:36,256
+<font color="#b2b2b2">Lecture we're going to jump into</font>
+
+37
+00:01:36,512 --> 00:01:37,792
+<font color="#a4a4a4">Are section on</font>
+
+38
+00:01:38,560 --> 00:01:40,096
+<font color="#f0f0f0">Common fundamental tasks</font>
+
+39
+00:01:40,864 --> 00:01:42,144
+<font color="#d1d1d1">With open Kayak cell</font>
+
+40
+00:01:42,912 --> 00:01:44,448
+<font color="#fcfcfc">I will see you in the next</font>
